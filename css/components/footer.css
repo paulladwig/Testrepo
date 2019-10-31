@@ -1,0 +1,24 @@
+.footer {
+  width: 1000px;
+  margin: 0 auto;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+}
+.contact {
+  display: flex;
+  justify-content: space-between;
+  width: 200px;
+}
+
+.contact i {
+  font-size: 40px;
+  color: #222f42;
+}
+
+.credits {
+  font-size: 10px;
+  text-align: right;
+}

@@ -1,0 +1,20 @@
+.banner {
+  background-image: linear-gradient(rgba(245, 246, 252, 0.07) 0.42%, rgba(57, 57, 60, 0.39) 60.08%, rgba(0, 0, 0, 0.58)), url(https://images.unsplash.com/photo-1572214351203-3f6571187cdf?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1868&q=80);
+  height: 500px;
+  display: flex;
+  align-items: flex-end;
+}
+
+.banner-content {
+  margin-bottom: 40px;
+}
+
+
+.banner-content h1, h3 {
+  color: white;
+}
+
+.banner-container {
+  width: 1000px;
+  margin: 0 auto;
+}
